@@ -128,5 +128,3 @@ This project demonstrates the practical implementation of SQL for data cleaning,
 ## Author
 ### Yashashvi Bhurawala
 
-First Year BCA Student  
-Aspiring Data Analyst & SQL Developer
