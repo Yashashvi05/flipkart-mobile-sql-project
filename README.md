@@ -129,5 +129,5 @@ This project demonstrates the practical implementation of SQL for data cleaning,
 ### Yashashvi Bhurawala
 
 ## Connect With Me
-LinkedIn: https://www.linkedin.com/in/yashashvi-bhurawala-04a837409/
-GitHub: https://github.com/Yashashvi05
+-LinkedIn: https://www.linkedin.com/in/yashashvi-bhurawala-04a837409/
+-GitHub: https://github.com/Yashashvi05
